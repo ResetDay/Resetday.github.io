@@ -281,9 +281,9 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
       {
         choosen: 'gitalk',
         options: {
-          clientID: '',
-          clientSecret: '',
-          repo: 'blog-gitalk-comment', // GitHub 仓库
+          clientID: 'b7d0523c93dd2770a37a',
+          clientSecret: ' 5d3c55099cbeea36dd5ec5d45222ef291abd9e90',
+          repo: ' resetday.github.io', // GitHub 仓库
           owner: 'RestDay', // GitHub仓库所有者
           admin: ['RestDay'], // 对仓库有写权限的人
           // distractionFreeMode: true,
