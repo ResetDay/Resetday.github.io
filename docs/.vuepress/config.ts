@@ -283,7 +283,7 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
         options: {
           clientID: 'b7d0523c93dd2770a37a',
           clientSecret: '5d3c55099cbeea36dd5ec5d45222ef291abd9e90',
-          repo: 'comment', // GitHub 仓库
+          repo: 'Resetday.github.io', // GitHub 仓库
           owner: 'ResetDay', // GitHub仓库所有者
           admin: ['ResetDay'], // 对仓库有写权限的人
           // distractionFreeMode: true,
