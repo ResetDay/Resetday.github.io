@@ -61,7 +61,7 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
         link: '/info/',
         items: [
           { text: '阅读', link: '/pages/a84b72/' },
-          { text: '翻译', link: '/pages/2755d0/' },
+          { text: '翻译', link: '/pages/5f7b46/' },
         ],
       },
       {
