@@ -61,6 +61,7 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
         link: '/info/',
         items: [
           { text: '阅读', link: '/pages/a84b72/' },
+          { text: '人物', link: '/pages/4d534a/' },
           { text: '翻译', link: '/pages/5f7b46/' },
         ],
       },
@@ -69,7 +70,7 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
         link: '/more/',
         items: [
           { text: '随笔', link: '/pages/f2a556/' },
-          { text: '工具', link: '/pages/f2a556/' },
+          { text: '工具', link: '/pages/f2a558/' },
         ],
       },
       { text: '关于', link: '/about/' },
